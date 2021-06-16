@@ -1,6 +1,5 @@
 # Fullstack Developer Job Application Assignment
 
-
 Our servers receive health reports from different types of devices. Our backend generates a report based on pre-defined formula of device and status.
 
 Your assignment consists of the following:
